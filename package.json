@@ -1,0 +1,26 @@
+{
+  "name": "ginger",
+  "version": "0.0.0",
+  "description": "ginger reader",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bux420/Node-Ginger.git"
+  },
+  "keywords": [
+    "ginger"
+  ],
+  "author": "l30",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bux420/Node-Ginger/issues"
+  },
+  "homepage": "https://github.com/bux420/Node-Ginger",
+  "dependencies": {
+    "express": "^4.7.2",
+    "gingerbread": "^0.3.1"
+  }
+}
